@@ -19,6 +19,7 @@ public class AccountProgram {
 		Account accThree = new BusinessAccount(7820, "Luis Rdrigues", 1000.0, 400.00);
 		accThree.withdraw(200);
 		System.out.println(accThree);
+
 	}
 
 }
